@@ -1,5 +1,4 @@
-# Ignore everything
-*
+# Ignore everything in dirs
 */*
 
 # Except
